@@ -4,5 +4,5 @@ def fatorial(x):
     else:
         return x * fatorial(x-1)
 
-fat = fatorial(4)
+fat = fatorial(998)
 print(fat)
